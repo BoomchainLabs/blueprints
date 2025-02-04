@@ -8,7 +8,7 @@
 	},
 	"landingPage": "/wp-admin/site-editor.php",
 	"plugins": ["gutenberg"],
-	"login":true,
+	"login": true,
 	"steps": [
 		{
 			"step": "runPHP",

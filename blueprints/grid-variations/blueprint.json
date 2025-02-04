@@ -7,8 +7,8 @@
 		"categories": ["Gutenberg", "Experiments"]
 	},
 	"landingPage": "/wp-admin/site-editor.php",
-	"login":true,
-	"plugins":["gutenberg"],
+	"login": true,
+	"plugins": ["gutenberg"],
 	"steps": [
 		{
 			"step": "runPHP",
