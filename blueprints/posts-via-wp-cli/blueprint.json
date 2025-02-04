@@ -7,7 +7,7 @@
 		"categories": ["Content", "wpcli"]
 	},
 	"landingPage": "/wp-admin/edit.php",
-	"login":true,
+	"login": true,
 	"steps": [
 		{
 			"step": "wp-cli",
