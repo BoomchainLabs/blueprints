@@ -17,7 +17,7 @@
 	},
 	"steps": [
 		{
-			 "step": "resetData"
+			"step": "resetData"
 		},
 		{
 			"step": "updateUserMeta",
@@ -31,7 +31,6 @@
 			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
 			"data": "<?php add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
 		},
-		
 		{
 			"step": "importWxr",
 			"file": {
