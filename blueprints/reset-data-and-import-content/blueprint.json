@@ -7,7 +7,7 @@
 		"categories": ["reset", "log", "debug", "debug", "import", "content"]
 	},
 	"landingPage": "/wp-admin/edit.php",
-	"login":true,
+	"login": true,
 	"steps": [
 		{
 			"step": "writeFile",
