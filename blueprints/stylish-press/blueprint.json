@@ -14,8 +14,8 @@
 	"features": {
 		"networking": true
 	},
-	"login":true,
-	"plugins":["woocommerce"],
+	"login": true,
+	"plugins": ["woocommerce"],
 	"steps": [
 		{
 			"step": "resetData"
@@ -25,7 +25,6 @@
 			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
 			"data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
 		},
-		
 		{
 			"step": "importWxr",
 			"file": {
