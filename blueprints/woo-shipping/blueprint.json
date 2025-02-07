@@ -6,7 +6,7 @@
 		"author": "calvinrodrigues500",
 		"categories": ["woocommerce", "shipping", "flat_rate"]
 	},
-	"plugins":["woocommerce"],
+	"plugins": ["woocommerce"],
 	"landingPage": "/wp-admin/admin.php?page=wc-settings&tab=shipping",
 	"steps": [
 		{
