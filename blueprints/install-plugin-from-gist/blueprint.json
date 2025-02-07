@@ -10,7 +10,7 @@
 		"wp": "beta",
 		"php": "8.0"
 	},
-	"login":true,
+	"login": true,
 	"steps": [
 		{
 			"step": "writeFile",
