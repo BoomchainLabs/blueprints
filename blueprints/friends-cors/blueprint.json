@@ -10,20 +10,20 @@
 	"features": {
 		"networking": true
 	},
-	"plugins":["friends","activitypub"],
+	"plugins": ["friends", "activitypub"],
 	"siteOptions": {
 		"permalink_structure": "/%postname%/"
 	},
 	"steps": [
 		{
 			"step": "writeFiles",
-				"writeToPath": "wordpress/wp-content/mu-plugins",
-				"filesTree": {
-				"resource": "literal:directory", 
+			"writeToPath": "wordpress/wp-content/mu-plugins",
+			"filesTree": {
+				"resource": "literal:directory",
 				"name": "mu-plugins",
 				"files": {
 					"addFilter-0.php": "<?php add_action( 'requests-requests.before_request', function( &$url ) {\n$url = 'https://playground.wordpress.net/cors-proxy.php?' . $url;\n} );"
-			  }
+				}
 			}
 		},
 		{
