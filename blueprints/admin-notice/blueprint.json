@@ -7,7 +7,7 @@
 		"categories": ["Admin", "notices"]
 	},
 	"landingPage": "/wp-admin/plugins.php",
-	"login":true,
+	"login": true,
 	"steps": [
 		{
 			"step": "writeFile",
