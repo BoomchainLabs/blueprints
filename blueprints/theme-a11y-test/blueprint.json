@@ -13,10 +13,9 @@
 	"features": {
 		"networking": true
 	},
-	"login":true,
+	"login": true,
 	"plugins": ["create-block-theme"],
 	"steps": [
-		
 		{
 			"step": "importWxr",
 			"file": {
