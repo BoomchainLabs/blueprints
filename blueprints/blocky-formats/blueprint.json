@@ -18,8 +18,8 @@
 			"pluginData": {
 				"resource": "git:directory",
 				"url": "https://github.com/dmsnell/blocky-formats.git",
-				"ref": "trunk",
-				"path": ""
+				"ref": "HEAD",
+				"path": "/"
 			}
 		}
 	]
