@@ -9,7 +9,7 @@
 	"landingPage": "/contact-us/",
 	"preferredVersions": {
 		"php": "8.3",
-		"wp": "6.6"
+		"wp": "latest"
 	},
 	"features": {
 		"networking": true
