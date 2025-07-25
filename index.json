@@ -17,7 +17,6 @@
       "Site"
     ]
   },
-  "blueprints/welcome/blueprint.json": {},
   "blueprints/create-block-theme/blueprint.json": {
     "title": "Create Block Theme",
     "description": "Blueprint to install Create Block Theme and start editing right away",
@@ -155,6 +154,14 @@
       "woocommerce",
       "shipping",
       "flat_rate"
+    ]
+  },
+  "blueprints/welcome/blueprint.json": {
+    "title": "Playground Welcome Landing Page",
+    "description": "Landing page for the WordPress Playground giving a quick overview of the features and capabilities of the platform.",
+    "author": "fellyph",
+    "categories": [
+      "meta"
     ]
   },
   "blueprints/use-pretty-permalinks/blueprint.json": {
