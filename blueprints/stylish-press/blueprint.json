@@ -77,6 +77,13 @@
 			}
 		},
 		{
+			"step": "installTheme",
+			"themeData": {
+				"resource": "wordpress.org/themes",
+				"slug": "twentytwentyfour"
+			}
+		},
+		{
 			"step": "activateTheme",
 			"themeFolderName": "stylish-press-theme"
 		},
