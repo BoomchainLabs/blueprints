@@ -70,6 +70,11 @@
       "Experiments"
     ]
   },
+  "blueprints/fancy-dashboard_widget/blueprint.json": {
+    "title": "Fancy Dashboard Widget",
+    "description": "A blueprint to display statistics about users, posts and comments on a WordPress site.",
+    "author": "muryamsultana"
+  },
   "blueprints/grid-variations/blueprint.json": {
     "title": "Grid Variations Experiments enabled",
     "author": "bph",
