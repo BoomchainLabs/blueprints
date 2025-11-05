@@ -13,9 +13,9 @@ When the default instance looks and behaves like WordPress core, it remains a re
 
 Updating the content is cumbersome since we intentionally avoid the typical tools such as a WXR import plugin, custom themes, The content of the sole page this Blueprint inserts is shipped as a JSON-encoded string inside the blueprint.json. Here's how you can update it:
 
-	1.	Run the Blueprint inside Playground.
-	2.	Edit the welcome page in WordPress (e.g., update text or layout).
-	3.	Switch to the code editor and copy the HTML.
-	4.	Convert that code into a JSON string.
-	5.	Replace the existing content in the Blueprint file.
+1.	Run the Blueprint inside Playground.
+2.	Edit the welcome page in WordPress (e.g., update text or layout).
+3.	Switch to the code editor and copy the HTML.
+4.	Convert that code into a JSON string.
+5.	Replace the existing content in the Blueprint file.
 
