@@ -2,7 +2,7 @@
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
 		"title": "Personal Resume",
-		"description": "A resume site created with the Readymade theme, see https://readymademo.wordpress.com/?demo",
+		"description": "A resume site created with the Readymade theme.",
 		"author": "WordPress.com",
 		"categories": ["Website", "Personal"]
 	},

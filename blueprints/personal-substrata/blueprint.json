@@ -2,7 +2,7 @@
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
 		"title": "Personal Blog",
-		"description": "A blog site created with the Substrata theme, see https://substratademo.wordpress.com/?demo",
+		"description": "A personal blog site created with the Substrata theme.",
 		"author": "WordPress.com",
 		"categories": ["Website", "Personal", "Blog"]
 	},

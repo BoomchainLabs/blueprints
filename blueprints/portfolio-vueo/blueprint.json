@@ -1,9 +1,10 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "Vueo",
-		"description": "A blueprint for the Vueo theme, see https://vueodemo.wordpress.com/?demo",
-		"author": "WordPress.com"
+		"title": "Art Gallery",
+		"description": "An art gallery created with the Vueo theme.",
+		"author": "WordPress.com",
+		"categories": ["Website", "Personal"]
 	},
 	"login": true,
 	"siteOptions": {

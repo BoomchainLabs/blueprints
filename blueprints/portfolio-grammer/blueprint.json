@@ -1,9 +1,10 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "Grammer",
-		"description": "A blueprint for the Grammer theme, see https://grammer.mystagingwebsite.com/?demo",
-		"author": "WordPress.com"
+		"title": "Photography Portfolio",
+		"description": "A photography portfolio created with the Grammer theme.",
+		"author": "WordPress.com",
+		"categories": ["Website", "Personal", "Photography"]
 	},
 	"login": true,
 	"siteOptions": {

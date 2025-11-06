@@ -2,7 +2,7 @@
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
 		"title": "Skincare Blog",
-		"description": "A skincare blog created with the Piel theme, see https://goodskindemo.wordpress.com/?demo",
+		"description": "A skincare blog created with the Piel theme.",
 		"author": "WordPress.com",
 		"categories": ["Website", "News", "Blog"]
 	},
