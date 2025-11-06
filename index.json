@@ -253,6 +253,11 @@
       "wpcli"
     ]
   },
+  "blueprints/pwa-weather-app/blueprint.json": {
+    "title": "Weather Shortcode Plugin",
+    "description": "A blueprint to connetc weather API and show data as shortcode on a WordPress site.",
+    "author": "muryamsultana"
+  },
   "blueprints/woocommerce-product-feed/blueprint.json": {
     "title": "WooCommerce product feed",
     "description": "Blueprint to create a WooCommerce product and export an XML/CSV product feed",
