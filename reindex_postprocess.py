@@ -12,6 +12,8 @@ highlighted_blueprints = [
     'Personal Resume',
     'Personal Blog',
     'University Website',
+    'Photography Portfolio',
+    'Art Gallery',
 ]
 
 def build_json_index():
