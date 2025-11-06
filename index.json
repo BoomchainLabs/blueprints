@@ -10,7 +10,7 @@
   },
   "blueprints/news-spiel/blueprint.json": {
     "title": "Gaming News",
-    "description": "A gaming news site created with the Spiel theme, see https://spieldemo.wordpress.com/?demo",
+    "description": "A gaming news site created with the Spiel theme.",
     "author": "WordPress.com",
     "categories": [
       "Website",
@@ -19,7 +19,7 @@
   },
   "blueprints/organization-koinonia/blueprint.json": {
     "title": "Non-profit Organization",
-    "description": "A non-profit organization site created with the Koinonia theme, see https://koinoniademo.wordpress.com/?demo",
+    "description": "A non-profit organization site created with the Koinonia theme.",
     "author": "WordPress.com",
     "categories": [
       "Website",
@@ -28,7 +28,7 @@
   },
   "blueprints/personal-substrata/blueprint.json": {
     "title": "Personal Blog",
-    "description": "A blog site created with the Substrata theme, see https://substratademo.wordpress.com/?demo",
+    "description": "A personal blog site created with the Substrata theme.",
     "author": "WordPress.com",
     "categories": [
       "Website",
@@ -38,7 +38,7 @@
   },
   "blueprints/personal-readymade/blueprint.json": {
     "title": "Personal Resume",
-    "description": "A resume site created with the Readymade theme, see https://readymademo.wordpress.com/?demo",
+    "description": "A resume site created with the Readymade theme.",
     "author": "WordPress.com",
     "categories": [
       "Website",
@@ -47,7 +47,7 @@
   },
   "blueprints/news-piel/blueprint.json": {
     "title": "Skincare Blog",
-    "description": "A skincare blog created with the Piel theme, see https://goodskindemo.wordpress.com/?demo",
+    "description": "A skincare blog created with the Piel theme.",
     "author": "WordPress.com",
     "categories": [
       "Website",
@@ -66,11 +66,21 @@
   },
   "blueprints/organization-kentwood/blueprint.json": {
     "title": "University Website",
-    "description": "A university website created with the Kentwood theme, see https://kentwooddemo.wordpress.com/?demo",
+    "description": "A university website created with the Kentwood theme.",
     "author": "WordPress.com",
     "categories": [
       "Website",
-      "Organization"
+      "Organization",
+      "Education"
+    ]
+  },
+  "blueprints/portfolio-vueo/blueprint.json": {
+    "title": "Art Gallery",
+    "description": "An art gallery created with the Vueo theme.",
+    "author": "WordPress.com",
+    "categories": [
+      "Website",
+      "Personal"
     ]
   },
   "blueprints/create-block-theme/blueprint.json": {
@@ -130,11 +140,6 @@
     "title": "Fancy Dashboard Widget",
     "description": "A blueprint to display statistics about users, posts and comments on a WordPress site.",
     "author": "muryamsultana"
-  },
-  "blueprints/portfolio-grammer/blueprint.json": {
-    "title": "Grammer",
-    "description": "A blueprint for the Grammer theme, see https://grammer.mystagingwebsite.com/?demo",
-    "author": "WordPress.com"
   },
   "blueprints/grid-variations/blueprint.json": {
     "title": "Grid Variations Experiments enabled",
@@ -220,6 +225,16 @@
       "woocommerce",
       "shipping",
       "flat_rate"
+    ]
+  },
+  "blueprints/portfolio-grammer/blueprint.json": {
+    "title": "Photography Portfolio",
+    "description": "A photography portfolio created with the Grammer theme.",
+    "author": "WordPress.com",
+    "categories": [
+      "Website",
+      "Personal",
+      "Photography"
     ]
   },
   "blueprints/welcome/blueprint.json": {
@@ -313,11 +328,6 @@
       "Content",
       "wpcli"
     ]
-  },
-  "blueprints/portfolio-vueo/blueprint.json": {
-    "title": "Vueo",
-    "description": "A blueprint for the Vueo theme, see https://vueodemo.wordpress.com/?demo",
-    "author": "WordPress.com"
   },
   "blueprints/pwa-weather-app/blueprint.json": {
     "title": "Weather Shortcode Plugin",
