@@ -1,4 +1,13 @@
 {
+  "blueprints/portfolio-vueo/blueprint.json": {
+    "title": "Art Gallery",
+    "description": "An art gallery created with the Vueo theme.",
+    "author": "WordPress.com",
+    "categories": [
+      "Website",
+      "Personal"
+    ]
+  },
   "blueprints/friends-cors/blueprint.json": {
     "title": "Feed Reader with the Friends Plugin",
     "description": "By using the Friends plugin, you can read feeds from the web in Playground, and even via ActivityPub",
@@ -45,6 +54,16 @@
       "Personal"
     ]
   },
+  "blueprints/portfolio-grammer/blueprint.json": {
+    "title": "Photography Portfolio",
+    "description": "A photography portfolio created with the Grammer theme.",
+    "author": "WordPress.com",
+    "categories": [
+      "Website",
+      "Personal",
+      "Photography"
+    ]
+  },
   "blueprints/news-piel/blueprint.json": {
     "title": "Skincare Blog",
     "description": "A skincare blog created with the Piel theme.",
@@ -72,15 +91,6 @@
       "Website",
       "Organization",
       "Education"
-    ]
-  },
-  "blueprints/portfolio-vueo/blueprint.json": {
-    "title": "Art Gallery",
-    "description": "An art gallery created with the Vueo theme.",
-    "author": "WordPress.com",
-    "categories": [
-      "Website",
-      "Personal"
     ]
   },
   "blueprints/create-block-theme/blueprint.json": {
@@ -225,16 +235,6 @@
       "woocommerce",
       "shipping",
       "flat_rate"
-    ]
-  },
-  "blueprints/portfolio-grammer/blueprint.json": {
-    "title": "Photography Portfolio",
-    "description": "A photography portfolio created with the Grammer theme.",
-    "author": "WordPress.com",
-    "categories": [
-      "Website",
-      "Personal",
-      "Photography"
     ]
   },
   "blueprints/welcome/blueprint.json": {
