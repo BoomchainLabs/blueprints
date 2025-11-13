@@ -19,10 +19,21 @@ highlighted_blueprints = [
 ]
 
 
-@lru_cache(maxsize=1)
-def get_repo_revision():
+@lru_cache(maxsize=256)
+def get_repo_revision_for_path(path):
+    """
+    Get the last commit hash where the parent directory of the given path changed.
+    This prevents infinite loops by using stable hashes for each blueprint.
+    """
     try:
-        return subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
+        # Get the directory containing the blueprint
+        blueprint_dir = os.path.dirname(path)
+        # Get the last commit that modified this directory
+        result = subprocess.check_output(
+            ['git', 'log', '-1', '--format=%H', '--', blueprint_dir],
+            text=True
+        ).strip()
+        return result if result else 'trunk'
     except Exception:
         return 'trunk'
 
@@ -30,7 +41,7 @@ def get_repo_revision():
 def build_raw_repo_url(path):
     rel = path.lstrip('./').replace('\\', '/')
     return 'https://raw.githubusercontent.com/wordpress/blueprints/{rev}/{path}'.format(
-        rev=get_repo_revision(),
+        rev=get_repo_revision_for_path(path),
         path=rel
     )
 
