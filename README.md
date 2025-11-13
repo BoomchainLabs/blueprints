@@ -3,9 +3,9 @@
 > [!IMPORTANT]  
 > Skip to the Blueprints Gallery to explore a variety of WordPress sites. Keep reading to learn more about Blueprints and how to contribute your own:
 >
-> [<kbd> <br> Browse the Blueprints Gallery <br> </kbd>](https://wordpress.github.io/blueprints/gallery.html)
+> [<kbd> <br> Browse the Blueprints Gallery <br> </kbd>](https://wordpress.github.io/blueprints/)
 
-![Blueprints Gallery](./gallery-screenshot.png)
+![Blueprints Gallery](./gallery-screenshot.jpg)
 
 ## What are Blueprints?
 
