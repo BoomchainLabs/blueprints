@@ -116,8 +116,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>Display Admin Notice</h2>
 <p>Blueprint to add a tiny mu-plugin and display an admin notice</p>
-<p><small>By <a href="https://github.com/bph">@bph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/admin-notice/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/e43d18091c7455e8a28f8975938f004e35b61333/blueprints/admin-notice/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/e43d18091c7455e8a28f8975938f004e35b61333/blueprints/admin-notice/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/bph">@bph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/admin-notice/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d622ba3a92141238c3448148bf70eb86db76ddc1/blueprints/admin-notice/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d622ba3a92141238c3448148bf70eb86db76ddc1/blueprints/admin-notice/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/admin-notice/screenshot.jpg" alt="Display Admin Notice screenshot" width="400"></p>
 <br clear="all">
 
