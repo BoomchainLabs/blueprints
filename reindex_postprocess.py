@@ -177,11 +177,14 @@ def rewrite_branch_urls_to_trunk():
 
     for path, meta in index.items():
         with open(path, 'r') as f:
-            blueprint = f.read()
-            json_blueprint = json.loads(blueprint)
+            original_blueprint = f.read()
+            json_blueprint = json.loads(original_blueprint)
             map_url_resources(json_blueprint, branch_url_mapper)
-            with open(path, 'w') as f:
-                f.write(json.dumps(json_blueprint, indent="\t"))
+            new_blueprint = json.dumps(json_blueprint, indent="\t")
+            # Only write if content changed to avoid unnecessary modifications
+            if original_blueprint != new_blueprint:
+                with open(path, 'w') as f:
+                    f.write(new_blueprint)
 
 
 def map_url_resources(blueprint_fragment, mapper):
