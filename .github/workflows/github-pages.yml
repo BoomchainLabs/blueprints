@@ -35,6 +35,9 @@ jobs:
             - name: Run reindex_postprocess.py
               run: python reindex_postprocess.py
 
+            - name: Copy as index.html
+              run: cp gallery.html index.html
+
             - name: Run Prettier
               run: prettier --write blueprints/**/*.json
 
@@ -45,7 +48,7 @@ jobs:
               uses: actions/upload-pages-artifact@v3
               with:
                   # Upload the gallery.html and index.json files
-                  path: '.'
+                  path: "."
 
     deploy:
         environment:
