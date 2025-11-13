@@ -24,20 +24,29 @@ def get_repo_revision_for_path(path):
     """
     Get the last commit hash where the given file or directory last changed.
     This prevents infinite loops by using stable hashes for each resource.
+
+    For blueprint.json files, we skip commits by deployment_bot to avoid
+    counting formatting-only changes as meaningful updates.
     """
     try:
         # For blueprint.json files, use the directory (so any file in the directory)
         # For other files (like screenshots), use the specific file path
         if path.endswith('blueprint.json'):
             target_path = os.path.dirname(path)
+            # Skip commits by deployment_bot to ignore formatting-only changes
+            result = subprocess.check_output(
+                ['git', 'log', '-1', '--format=%H', '--author=^((?!deployment_bot).*)$',
+                 '--perl-regexp', '--', target_path],
+                text=True
+            ).strip()
         else:
             target_path = path
+            # For non-blueprint files (screenshots, etc), use any commit
+            result = subprocess.check_output(
+                ['git', 'log', '-1', '--format=%H', '--', target_path],
+                text=True
+            ).strip()
 
-        # Get the last commit that modified this path
-        result = subprocess.check_output(
-            ['git', 'log', '-1', '--format=%H', '--', target_path],
-            text=True
-        ).strip()
         return result if result else 'trunk'
     except Exception:
         return 'trunk'
