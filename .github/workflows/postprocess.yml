@@ -7,6 +7,7 @@ on:
 
 jobs:
     build:
+        if: ${{ github.actor != 'github-actions[bot]' }}
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
@@ -45,3 +46,4 @@ jobs:
                   if [ $? -eq 0 ]; then
                     git push git@github.com:${{ github.repository }}.git --follow-tags
                   fi;
+
