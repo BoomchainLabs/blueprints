@@ -22,15 +22,20 @@ highlighted_blueprints = [
 @lru_cache(maxsize=256)
 def get_repo_revision_for_path(path):
     """
-    Get the last commit hash where the parent directory of the given path changed.
-    This prevents infinite loops by using stable hashes for each blueprint.
+    Get the last commit hash where the given file or directory last changed.
+    This prevents infinite loops by using stable hashes for each resource.
     """
     try:
-        # Get the directory containing the blueprint
-        blueprint_dir = os.path.dirname(path)
-        # Get the last commit that modified this directory
+        # For blueprint.json files, use the directory (so any file in the directory)
+        # For other files (like screenshots), use the specific file path
+        if path.endswith('blueprint.json'):
+            target_path = os.path.dirname(path)
+        else:
+            target_path = path
+
+        # Get the last commit that modified this path
         result = subprocess.check_output(
-            ['git', 'log', '-1', '--format=%H', '--', blueprint_dir],
+            ['git', 'log', '-1', '--format=%H', '--', target_path],
             text=True
         ).strip()
         return result if result else 'trunk'
