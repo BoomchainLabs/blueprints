@@ -19,10 +19,27 @@ highlighted_blueprints = [
 ]
 
 
+@lru_cache(maxsize=512)
+def get_last_commit_for_file(path):
+    """
+    Get the commit hash where this specific file was last changed.
+    This ensures URLs are stable and only change when the file itself changes.
+    """
+    try:
+        result = subprocess.check_output(
+            ['git', 'log', '-1', '--format=%H', '--', path],
+            text=True
+        ).strip()
+        return result if result else 'trunk'
+    except Exception:
+        return 'trunk'
+
+
 def build_raw_repo_url(path):
     rel = path.lstrip('./').replace('\\', '/')
-    # Always use 'trunk' to prevent infinite loops from commit hash changes
-    return 'https://raw.githubusercontent.com/wordpress/blueprints/trunk/{path}'.format(
+    commit_hash = get_last_commit_for_file(path)
+    return 'https://raw.githubusercontent.com/wordpress/blueprints/{rev}/{path}'.format(
+        rev=commit_hash,
         path=rel
     )
 
