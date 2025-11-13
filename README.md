@@ -18,7 +18,7 @@ The basic example below will load a Playground instance with the Hello Dolly plu
     "landingPage": "/wp-admin/plugins.php"
 }
 ```
-[<kbd> <br> Preview in WordPress Playground <br> </kbd>](https://playground.wordpress.net/#%7B%22plugins%22:%5B%22hello-dolly%22,%22gutenberg%22%5D,%20%22login%22:%20true,%20%22landingPage%22:%20%22/wp-admin/plugins.php%22%20%7D)
+<a href="https://playground.wordpress.net/#%7B%22plugins%22:%5B%22hello-dolly%22,%22gutenberg%22%5D,%20%22login%22:%20true,%20%22landingPage%22:%20%22/wp-admin/plugins.php%22%20%7D"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a>
 
 Check out [Blueprints 101](./docs/index.md) to get started creating blueprints. 
 
