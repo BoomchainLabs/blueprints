@@ -5,7 +5,7 @@
 >
 > [<kbd> <br> Browse the Blueprints Gallery <br> </kbd>](https://wordpress.github.io/blueprints/)
 
-![Blueprints Gallery](./gallery-screenshot.jpg)
+[![Blueprints Gallery](./gallery-screenshot.jpg)](https://wordpress.github.io/blueprints/gallery.html)
 
 ## What are Blueprints?
 
