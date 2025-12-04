@@ -5,7 +5,7 @@ import subprocess
 import sys
 from functools import lru_cache
 
-highlighted_blueprints = [
+highlighted_blueprints = {
     'Stylish Press',
     'Feed Reader with the Friends Plugin',
     'Gaming News',
@@ -16,7 +16,7 @@ highlighted_blueprints = [
     'University Website',
     'Photography Portfolio',
     'Art Gallery',
-]
+}
 
 
 @lru_cache(maxsize=512)
@@ -110,6 +110,8 @@ def build_json_index():
                         else:
                             screenshot_url = build_raw_repo_url(screenshot_path)
                         meta_with_media['screenshot_url'] = screenshot_url
+                    # Add featured flag based on whether the title is in highlighted_blueprints
+                    meta_with_media['featured'] = meta.get('title', '') in highlighted_blueprints
                     index[path] = meta_with_media
     # Sort index alphabetically by title
     index = dict(sorted(index.items(), key=lambda item: (
