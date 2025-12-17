@@ -220,8 +220,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>Playground Welcome Landing Page</h2>
 <p>Landing page for the WordPress Playground giving a quick overview of the features and capabilities of the platform.</p>
-<p><small>By <a href="https://github.com/fellyph">@fellyph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/welcome/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/welcome/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/welcome/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/fellyph">@fellyph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/welcome/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/54cdbaa2a903a7cd5c4a4785122798f23173b719/blueprints/welcome/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/54cdbaa2a903a7cd5c4a4785122798f23173b719/blueprints/welcome/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/welcome/screenshot.jpg" alt="Playground Welcome Landing Page screenshot" width="400"></p>
 <br clear="all">
 
