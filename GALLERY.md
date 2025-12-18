@@ -14,7 +14,7 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <p>A stylish WooCommerce coffee shop storefront with custom theme, products, and content.</p>
 <p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/brewcommerce/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/176cdb6fcbc294d90c9a5771542acf442360ebad/blueprints/brewcommerce/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/176cdb6fcbc294d90c9a5771542acf442360ebad/blueprints/brewcommerce/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
-<p align="left"><em>No screenshot yet for Coffee Shop. Open it in Playground.</em></p>
+<p align="left"><img src="blueprints/brewcommerce/screenshot.jpg" alt="Coffee Shop screenshot" width="400"></p>
 <br clear="all">
 
 

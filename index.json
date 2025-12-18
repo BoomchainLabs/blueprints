@@ -18,6 +18,7 @@
       "WooCommerce",
       "Store"
     ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/e3183200f04bac17b650ef303be934a0be5fe957/blueprints/brewcommerce/screenshot.jpg",
     "featured": true
   },
   "blueprints/friends-cors/blueprint.json": {
