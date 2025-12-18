@@ -307,9 +307,9 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 
 <h2>Weather Shortcode Plugin</h2>
-<p>A blueprint to connetc weather API and show data as shortcode on a WordPress site.</p>
-<p><small>By <a href="https://github.com/muryamsultana">@muryamsultana</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/pwa-weather-app/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/pwa-weather-app/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/pwa-weather-app/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p>A blueprint to connect weather API and show data as shortcode on a WordPress site.</p>
+<p><small>By <a href="https://github.com/muryamsultana">@muryamsultana</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/pwa-weather-app/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/f6793dabb0e3dd5cf23792e09f77449c301b86e7/blueprints/pwa-weather-app/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/f6793dabb0e3dd5cf23792e09f77449c301b86e7/blueprints/pwa-weather-app/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/pwa-weather-app/screenshot.jpg" alt="Weather Shortcode Plugin screenshot" width="400"></p>
 <br clear="all">
 
