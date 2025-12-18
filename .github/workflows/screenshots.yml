@@ -42,6 +42,7 @@ jobs:
             - name: Check for changes
               id: check_changes
               run: |
+                  git add blueprints/*/screenshot.jpg
                   if [ -n "$(git status --porcelain)" ]; then
                     echo "has_changes=true" >> $GITHUB_OUTPUT
                   else
