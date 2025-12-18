@@ -82,6 +82,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>Coffee Shop</h2>
+<p>A stylish WooCommerce coffee shop storefront with custom theme, products, and content.</p>
+<p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/brewcommerce/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/e2047fafe6995c955ab8a6f855b9c38d5376aa76/blueprints/brewcommerce/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/e2047fafe6995c955ab8a6f855b9c38d5376aa76/blueprints/brewcommerce/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><em>No screenshot yet for Coffee Shop. Open it in Playground.</em></p>
+<br clear="all">
+
+
 <h2>Create Block Theme</h2>
 <p>Blueprint to install Create Block Theme and start editing right away</p>
 <p><small>By <a href="https://github.com/jonathanbossenger">@jonathanbossenger</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/create-block-theme/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/create-block-theme/blueprint.json">Edit</a></small></p>

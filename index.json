@@ -113,6 +113,16 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/organization-kentwood/screenshot.jpg",
     "featured": true
   },
+  "blueprints/brewcommerce/blueprint.json": {
+    "title": "Coffee Shop",
+    "description": "A stylish WooCommerce coffee shop storefront with custom theme, products, and content.",
+    "author": "adamziel",
+    "categories": [
+      "WooCommerce",
+      "Store"
+    ],
+    "featured": false
+  },
   "blueprints/create-block-theme/blueprint.json": {
     "title": "Create Block Theme",
     "description": "Blueprint to install Create Block Theme and start editing right away",
