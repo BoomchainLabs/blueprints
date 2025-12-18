@@ -10,6 +10,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2><strong>Coffee Shop</strong></h2>
+<p>A stylish WooCommerce coffee shop storefront with custom theme, products, and content.</p>
+<p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/brewcommerce/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/176cdb6fcbc294d90c9a5771542acf442360ebad/blueprints/brewcommerce/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/176cdb6fcbc294d90c9a5771542acf442360ebad/blueprints/brewcommerce/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><em>No screenshot yet for Coffee Shop. Open it in Playground.</em></p>
+<br clear="all">
+
+
 <h2><strong>Feed Reader with the Friends Plugin</strong></h2>
 <p>By using the Friends plugin, you can read feeds from the web in Playground, and even via ActivityPub</p>
 <p><small>By <a href="https://github.com/akirk">@akirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/friends-cors/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/friends-cors/blueprint.json">Edit</a></small></p>
@@ -66,27 +74,11 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
-<h2><strong>Stylish Press</strong></h2>
-<p>A Woo store with custom theme, content, and products.</p>
-<p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/stylish-press/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/stylish-press/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/stylish-press/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
-<p align="left"><img src="blueprints/stylish-press/screenshot.jpg" alt="Stylish Press screenshot" width="400"></p>
-<br clear="all">
-
-
 <h2><strong>University Website</strong></h2>
 <p>A university website created with the Kentwood theme.</p>
 <p><small>By <a href="https://github.com/WordPress.com">@WordPress.com</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/organization-kentwood/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/organization-kentwood/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/organization-kentwood/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/organization-kentwood/screenshot.jpg" alt="University Website screenshot" width="400"></p>
-<br clear="all">
-
-
-<h2>Coffee Shop</h2>
-<p>A stylish WooCommerce coffee shop storefront with custom theme, products, and content.</p>
-<p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/brewcommerce/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/176cdb6fcbc294d90c9a5771542acf442360ebad/blueprints/brewcommerce/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/176cdb6fcbc294d90c9a5771542acf442360ebad/blueprints/brewcommerce/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
-<p align="left"><em>No screenshot yet for Coffee Shop. Open it in Playground.</em></p>
 <br clear="all">
 
 
@@ -271,6 +263,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <p><small>By <a href="https://github.com/Lovor01">@Lovor01</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/showcase-plugin-with-media/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/showcase-plugin-with-media/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/showcase-plugin-with-media/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/showcase-plugin-with-media/screenshot.jpg" alt="Showcase plugin screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>Stylish Press</h2>
+<p>A Woo store with custom theme, content, and products.</p>
+<p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/stylish-press/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/stylish-press/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/stylish-press/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/stylish-press/screenshot.jpg" alt="Stylish Press screenshot" width="400"></p>
 <br clear="all">
 
 

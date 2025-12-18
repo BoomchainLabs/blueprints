@@ -10,6 +10,16 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/portfolio-vueo/screenshot.jpg",
     "featured": true
   },
+  "blueprints/brewcommerce/blueprint.json": {
+    "title": "Coffee Shop",
+    "description": "A stylish WooCommerce coffee shop storefront with custom theme, products, and content.",
+    "author": "adamziel",
+    "categories": [
+      "WooCommerce",
+      "Store"
+    ],
+    "featured": true
+  },
   "blueprints/friends-cors/blueprint.json": {
     "title": "Feed Reader with the Friends Plugin",
     "description": "By using the Friends plugin, you can read feeds from the web in Playground, and even via ActivityPub",
@@ -90,17 +100,6 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/news-piel/screenshot.jpg",
     "featured": true
   },
-  "blueprints/stylish-press/blueprint.json": {
-    "title": "Stylish Press",
-    "description": "A Woo store with custom theme, content, and products.",
-    "author": "adamziel",
-    "categories": [
-      "Woocommerce",
-      "Site"
-    ],
-    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/stylish-press/screenshot.jpg",
-    "featured": true
-  },
   "blueprints/organization-kentwood/blueprint.json": {
     "title": "University Website",
     "description": "A university website created with the Kentwood theme.",
@@ -112,16 +111,6 @@
     ],
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/organization-kentwood/screenshot.jpg",
     "featured": true
-  },
-  "blueprints/brewcommerce/blueprint.json": {
-    "title": "Coffee Shop",
-    "description": "A stylish WooCommerce coffee shop storefront with custom theme, products, and content.",
-    "author": "adamziel",
-    "categories": [
-      "WooCommerce",
-      "Store"
-    ],
-    "featured": false
   },
   "blueprints/create-block-theme/blueprint.json": {
     "title": "Create Block Theme",
@@ -367,6 +356,17 @@
       "images"
     ],
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/showcase-plugin-with-media/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/stylish-press/blueprint.json": {
+    "title": "Stylish Press",
+    "description": "A Woo store with custom theme, content, and products.",
+    "author": "adamziel",
+    "categories": [
+      "Woocommerce",
+      "Site"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/stylish-press/screenshot.jpg",
     "featured": false
   },
   "blueprints/theme-a11y-test/blueprint.json": {
