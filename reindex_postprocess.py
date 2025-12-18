@@ -6,12 +6,12 @@ import sys
 from functools import lru_cache
 
 highlighted_blueprints = {
-    'Stylish Press',
     'Feed Reader with the Friends Plugin',
     'Gaming News',
     'Skincare Blog',
     'Non-profit Organization',
     'Personal Resume',
+    'Coffee Shop',
     'Personal Blog',
     'University Website',
     'Photography Portfolio',
