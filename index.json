@@ -291,6 +291,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/woo-shipping/screenshot.jpg",
     "featured": false
   },
+  "blueprints/my-wordpress/blueprint.json": {
+    "title": "My WordPress",
+    "description": "A welcome experience for persistent WordPress Playground instances. Lets you personalize your site name and optionally import content from an RSS feed.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Playground",
+      "Onboarding"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/caa7ea840c3e6707ee9f70deae73a7c37aa885ae/blueprints/my-wordpress/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/welcome/blueprint.json": {
     "title": "Playground Welcome Landing Page",
     "description": "Landing page for the WordPress Playground giving a quick overview of the features and capabilities of the platform.",

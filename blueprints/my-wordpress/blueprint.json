@@ -4,10 +4,7 @@
 		"title": "My WordPress",
 		"description": "A welcome experience for persistent WordPress Playground instances. Lets you personalize your site name and optionally import content from an RSS feed.",
 		"author": "Alex Kirk",
-		"categories": [
-			"Playground",
-			"Onboarding"
-		]
+		"categories": ["Playground", "Onboarding"]
 	},
 	"login": true,
 	"landingPage": "/wp-admin/tools.php?page=playground-welcome",

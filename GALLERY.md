@@ -218,6 +218,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>My WordPress</h2>
+<p>A welcome experience for persistent WordPress Playground instances. Lets you personalize your site name and optionally import content from an RSS feed.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/my-wordpress/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/caa7ea840c3e6707ee9f70deae73a7c37aa885ae/blueprints/my-wordpress/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/caa7ea840c3e6707ee9f70deae73a7c37aa885ae/blueprints/my-wordpress/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/my-wordpress/screenshot.jpg" alt="My WordPress screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>Playground Welcome Landing Page</h2>
 <p>Landing page for the WordPress Playground giving a quick overview of the features and capabilities of the platform.</p>
 <p><small>By <a href="https://github.com/fellyph">@fellyph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/welcome/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/54cdbaa2a903a7cd5c4a4785122798f23173b719/blueprints/welcome/blueprint.json">Edit</a></small></p>
