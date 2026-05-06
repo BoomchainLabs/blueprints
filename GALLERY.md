@@ -220,8 +220,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>My WordPress</h2>
 <p>A welcome experience for persistent WordPress Playground instances. Lets you personalize your site name and optionally import content from an RSS feed.</p>
-<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/my-wordpress/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/075bda230c0189d875f1c578cfb311011e656788/blueprints/my-wordpress/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/075bda230c0189d875f1c578cfb311011e656788/blueprints/my-wordpress/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/my-wordpress/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/a46112c154bb204f52ffe5873bcc41d0dadf69fa/blueprints/my-wordpress/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/a46112c154bb204f52ffe5873bcc41d0dadf69fa/blueprints/my-wordpress/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/my-wordpress/screenshot.jpg" alt="My WordPress screenshot" width="400"></p>
 <br clear="all">
 
