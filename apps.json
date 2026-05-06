@@ -8,15 +8,6 @@
       "AI"
     ]
   },
-  "apps/app-launcher.json": {
-    "title": "App Launcher",
-    "description": "Adds an app launcher to your WordPress",
-    "author": "Alex Kirk",
-    "categories": [
-      "Apps",
-      "Utility"
-    ]
-  },
   "apps/chat-to-blog.json": {
     "title": "Chat to Blog",
     "description": "Import media from Beeper chats and create blog posts. Requires Beeper Desktop running.",
@@ -51,6 +42,15 @@
     "categories": [
       "Apps",
       "Social"
+    ]
+  },
+  "apps/memex.json": {
+    "title": "Memex",
+    "description": "Turn WordPress into a note-taking platform with bi-directional [[wiki-links]], automatic backlinks, daily notes, and tags. Import notes from Obsidian, Notion, Evernote, or Roam Research with one click.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Productivity"
     ]
   }
 }

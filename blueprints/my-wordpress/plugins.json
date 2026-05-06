@@ -1,0 +1,128 @@
+{
+	"network-privacy": {
+		"note": "Adds a \"visible only to subscribers\" option in Settings → Reading. Pair with subscriber accounts to make a site private to invited users on multisite hosts like my.wordpress.net.",
+		"categories": ["Privacy"],
+		"landing_page": "/wp-admin/options-reading.php"
+	},
+	"password-protected": {
+		"note": "Lock your entire site behind a single shared password — perfect for a private family blog on a self-hosted WordPress.",
+		"categories": ["Privacy"],
+		"landing_page": "/wp-admin/options-general.php?page=password-protected"
+	},
+	"enable-mastodon-apps": {
+		"note": "Turn your WordPress into a Mastodon-compatible server so anyone can post via any Mastodon app.",
+		"categories": ["Social"],
+		"landing_page": "/wp-admin/options-general.php?page=enable-mastodon-apps"
+	},
+	"send-to-e-reader": {
+		"github": "akirk/send-to-e-reader",
+		"title": "Send to E-Reader",
+		"author": "Alex Kirk",
+		"note": "Push articles to your Kindle or Kobo as ePub or by email — read long-form away from the browser.",
+		"categories": ["Productivity"],
+		"landing_page": "/wp-admin/options-general.php?page=send-to-e-reader"
+	},
+	"pro-mime-types": {
+		"note": "Lets you upload file types WordPress blocks by default (SVG, WebP variants, etc.) without editing code.",
+		"categories": ["Utility"],
+		"landing_page": "/wp-admin/options-general.php?page=pro-mime-types"
+	},
+	"duplicate-page": {
+		"note": "Adds a one-click \"Duplicate\" action to posts and pages — great for reusing a layout you like.",
+		"categories": ["Productivity"],
+		"landing_page": "/wp-admin/options-general.php?page=duplicate_page_settings"
+	},
+	"family-wiki": {
+		"note": "Turn your site into a private family wiki with nested pages and shared editing.",
+		"categories": ["Productivity"],
+		"landing_page": "/wp-admin/edit.php?post_type=page"
+	},
+	"secure-custom-fields": {
+		"note": "Add structured fields (dates, relations, places) to pages so facts stay consistent and searchable. A WordPress-maintained fork of ACF.",
+		"categories": ["Productivity"],
+		"landing_page": "/wp-admin/edit.php?post_type=acf-field-group"
+	},
+	"wp-dashboard-notes": {
+		"note": "Pin sticky notes to your WordPress dashboard — handy for to-dos and reminders you'll actually see.",
+		"categories": ["Productivity"],
+		"landing_page": "/wp-admin/index.php"
+	},
+	"wordpress-beta-tester": {
+		"note": "Opt into WordPress beta and release-candidate builds to try new features before they ship.",
+		"categories": ["Utility"],
+		"landing_page": "/wp-admin/tools.php?page=wp-beta-tester"
+	},
+	"static-archive": {
+		"github": "akirk/static-archive",
+		"title": "Static Archive",
+		"author": "Alex Kirk",
+		"note": "Export your blog as static HTML so you keep a self-contained archive even if your site changes.",
+		"categories": ["Utility"],
+		"landing_page": "/wp-admin/tools.php?page=static-archive"
+	},
+	"chat-to-blog": {
+		"github": "akirk/chat-to-blog",
+		"title": "Chat to Blog",
+		"author": "Alex Kirk",
+		"note": "Import photos and media from Beeper chats directly into WordPress posts. Requires Beeper Desktop running.",
+		"categories": ["Media"]
+	},
+	"post-collection": {
+		"github": "akirk/post-collection",
+		"title": "Post Collection",
+		"author": "Alex Kirk",
+		"note": "Clip articles from around the web into your WordPress as their own post type — handy with the Friends reader.",
+		"categories": ["Productivity"]
+	},
+	"personal-crm": {
+		"github": "akirk/personal-crm",
+		"branch": "dist/main",
+		"title": "Personal CRM",
+		"author": "Alex Kirk",
+		"note": "A private contact directory inside your WordPress — names, notes, last-contact dates, custom fields. Works great alongside Keeping Contact.",
+		"categories": ["Productivity"]
+	},
+	"keeping-contact": {
+		"github": "akirk/keeping-contact",
+		"title": "Keeping Contact",
+		"author": "Alex Kirk",
+		"note": "Reminder companion for Personal CRM — set a check-in cadence per contact and get nudged when it's been too long.",
+		"categories": ["Productivity"]
+	},
+	"friends": {
+		"title": "Friends",
+		"note": "Subscribe to RSS, Atom, and ActivityPub feeds — your private feed reader, with following / follower model and Mastodon support.",
+		"categories": ["Social"]
+	},
+	"cookbook": {
+		"github": "akirk/cookbook",
+		"branch": "dist/main",
+		"title": "Cookbook",
+		"author": "Alex Kirk",
+		"note": "Store your recipes in your WordPress, with ingredients, steps, and prep/cook times. Paste a URL to pull a recipe in from the web.",
+		"categories": ["Productivity"],
+		"landing_page": "/cookbook/"
+	},
+	"memex": {
+		"github": "akirk/memex",
+		"branch": "dist/main",
+		"title": "Memex",
+		"author": "Alex Kirk",
+		"note": "A note-taking app inside WordPress with [[wiki-links]], automatic backlinks, daily notes, and tags. One-click import from Obsidian, Notion, Evernote, or Roam Research.",
+		"categories": ["Productivity"],
+		"landing_page": "/memex/"
+	},
+	"my-apps": {
+		"note": "A home-screen-style launcher for the apps and admin links you actually use — drag-to-reorder, a built-in app store for one-click blueprint installs, and a mobile-friendly layout.",
+		"categories": ["Productivity"],
+		"landing_page": "/my-apps/"
+	},
+	"desktop-mode": {
+		"url": "https://github.com/WordPress/desktop-mode/releases/latest/download/desktop-mode.zip",
+		"title": "Desktop Mode",
+		"author": "WordPress",
+		"note": "Reimagines /wp-admin as a desktop OS — admin screens open as draggable, resizable windows on a wallpaper, with a dock built from the admin menu. Per-user opt-in, fully reverts on deactivation.",
+		"categories": ["Productivity"],
+		"landing_page": "/desktop-mode/"
+	}
+}
