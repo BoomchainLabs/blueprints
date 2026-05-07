@@ -146,6 +146,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>Gutenberg Guidelines Experiment enabled</h2>
+<p>Enables the Gutenberg Guidelines experiment from the Gutenberg Experiments page</p>
+<p><small>By <a href="https://github.com/smithjw1">@smithjw1</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/gutenberg-guidelines/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/7edc4beec9a05bd41b13bc377aa6f6be6fed1552/blueprints/gutenberg-guidelines/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/7edc4beec9a05bd41b13bc377aa6f6be6fed1552/blueprints/gutenberg-guidelines/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><em>No screenshot yet for Gutenberg Guidelines Experiment enabled. Open it in Playground.</em></p>
+<br clear="all">
+
+
 <h2>Import Theme Starter Content</h2>
 <p>Blueprint to install a theme with starter content, (here: Twenty-Twenty-One)</p>
 <p><small>By <a href="https://github.com/bph">@bph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/theme-starter-content/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/theme-starter-content/blueprint.json">Edit</a></small></p>

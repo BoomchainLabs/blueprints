@@ -196,6 +196,16 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/grid-variations/screenshot.jpg",
     "featured": false
   },
+  "blueprints/gutenberg-guidelines/blueprint.json": {
+    "title": "Gutenberg Guidelines Experiment enabled",
+    "author": "smithjw1",
+    "description": "Enables the Gutenberg Guidelines experiment from the Gutenberg Experiments page",
+    "categories": [
+      "Gutenberg",
+      "Experiments"
+    ],
+    "featured": false
+  },
   "blueprints/theme-starter-content/blueprint.json": {
     "title": "Import Theme Starter Content",
     "author": "bph",
