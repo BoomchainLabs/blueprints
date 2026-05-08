@@ -1,0 +1,46 @@
+name: Validate My WordPress JSON
+
+on:
+    pull_request:
+        paths:
+            - ".github/workflows/validate-my-wordpress-json.yml"
+            - "package-lock.json"
+            - "package.json"
+            - "scripts/validate-my-wordpress-json.js"
+            - "apps.json"
+            - "apps/*.json"
+            - "blueprints/my-wordpress/**/*.json"
+    push:
+        branches:
+            - trunk
+        paths:
+            - ".github/workflows/validate-my-wordpress-json.yml"
+            - "package-lock.json"
+            - "package.json"
+            - "scripts/validate-my-wordpress-json.js"
+            - "apps.json"
+            - "apps/*.json"
+            - "blueprints/my-wordpress/**/*.json"
+
+env:
+    BLUEPRINT_SCHEMA_URL: "https://raw.githubusercontent.com/WordPress/wordpress-playground/trunk/packages/playground/blueprints/public/blueprint-schema.json"
+    MY_APPS_SCHEMA_BASE_URL: "https://raw.githubusercontent.com/akirk/my-apps/main/schemas"
+
+jobs:
+    validate_json:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+
+            - name: Install dependencies
+              run: npm ci
+
+            - name: Validate JSON and schemas
+              run: npm run validate:my-wordpress-json
