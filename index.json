@@ -391,6 +391,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/stylish-press/screenshot.jpg",
     "featured": false
   },
+  "blueprints/theme-review-environment/blueprint.json": {
+    "title": "Theme Review Environment",
+    "author": "supernovia",
+    "description": "Helps new theme reviewers get started faster by installing Theme Check and other recommended plugins, enabling WP-CLI, and turning on debug logging.",
+    "categories": [
+      "Contributor",
+      "Test Environment"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/33461e37bffae081be1b1c1dd81e3742111fd933/blueprints/theme-review-environment/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/theme-a11y-test/blueprint.json": {
     "title": "Theme Tester",
     "description": "Blueprint example to add content and plugins to explore a theme",
