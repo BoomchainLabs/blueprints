@@ -292,8 +292,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>Theme Review Environment</h2>
 <p>Helps new theme reviewers get started faster by installing Theme Check and other recommended plugins, enabling WP-CLI, and turning on debug logging.</p>
-<p><small>By <a href="https://github.com/supernovia">@supernovia</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/theme-review-environment/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33461e37bffae081be1b1c1dd81e3742111fd933/blueprints/theme-review-environment/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33461e37bffae081be1b1c1dd81e3742111fd933/blueprints/theme-review-environment/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/supernovia">@supernovia</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/theme-review-environment/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/3dfa5dbbbe050863c9e97fe3d39668eeac2b8228/blueprints/theme-review-environment/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/3dfa5dbbbe050863c9e97fe3d39668eeac2b8228/blueprints/theme-review-environment/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/theme-review-environment/screenshot.jpg" alt="Theme Review Environment screenshot" width="400"></p>
 <br clear="all">
 
