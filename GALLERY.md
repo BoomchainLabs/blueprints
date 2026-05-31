@@ -84,8 +84,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>AI Assistant</h2>
 <p>AI-powered chat interface to modify your WordPress to your liking. Bring your own key or use a local LLM</p>
-<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/ai-assistant/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/ai-assistant/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/ai-assistant/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/ai-assistant/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/ai-assistant/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/ai-assistant/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/ai-assistant/screenshot.jpg" alt="AI Assistant screenshot" width="400"></p>
 <br clear="all">
 
@@ -276,8 +276,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>Personal CRM</h2>
 <p>Manage your contacts and relationships directly from WordPress</p>
-<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/personal-crm/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/personal-crm/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/personal-crm/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/personal-crm/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/personal-crm/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/personal-crm/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/personal-crm/screenshot.jpg" alt="Personal CRM screenshot" width="400"></p>
 <br clear="all">
 
@@ -300,8 +300,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>RSS Reader</h2>
 <p>Follow friends and consume their content in your WordPress</p>
-<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/rss-reader/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/rss-reader/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/rss-reader/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/rss-reader/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/rss-reader/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/rss-reader/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/rss-reader/screenshot.jpg" alt="RSS Reader screenshot" width="400"></p>
 <br clear="all">
 
@@ -404,8 +404,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>WordCamp Companion</h2>
 <p>A tool to help you plan your WordCamp attendance.</p>
-<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/wordcamp-companion/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordcamp-companion/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordcamp-companion/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/wordcamp-companion/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/wordcamp-companion/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/33d0f14c1c330d5e9571081fc160b39362204117/blueprints/wordcamp-companion/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/wordcamp-companion/screenshot.jpg" alt="WordCamp Companion screenshot" width="400"></p>
 <br clear="all">
 
