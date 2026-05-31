@@ -113,6 +113,50 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/organization-kentwood/screenshot.jpg",
     "featured": true
   },
+  "blueprints/ai-assistant/blueprint.json": {
+    "title": "AI Assistant",
+    "description": "AI-powered chat interface to modify your WordPress to your liking. Bring your own key or use a local LLM",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "AI"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/ai-assistant/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/chat-to-blog/blueprint.json": {
+    "title": "Chat to Blog",
+    "description": "Import media from Beeper chats and create blog posts. Requires Beeper Desktop running.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Media"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/chat-to-blog/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/post-collection/blueprint.json": {
+    "title": "Collect Posts from the Web",
+    "description": "Use the Post Collection Plugin to save articles from around the web",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Productivity"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/post-collection/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/cookbook/blueprint.json": {
+    "title": "Cookbook",
+    "description": "Store your recipes in your WordPress, with ingredients, steps, and prep/cook times. Paste a URL to pull a recipe in from the web.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Productivity"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/cookbook/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/create-block-theme/blueprint.json": {
     "title": "Create Block Theme",
     "description": "Blueprint to install Create Block Theme and start editing right away",
@@ -204,6 +248,7 @@
       "Gutenberg",
       "Experiments"
     ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/gutenberg-guidelines/screenshot.jpg",
     "featured": false
   },
   "blueprints/theme-starter-content/blueprint.json": {
@@ -289,6 +334,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/blocky-formats/screenshot.jpg",
     "featured": false
   },
+  "blueprints/memex/blueprint.json": {
+    "title": "Memex",
+    "description": "Turn WordPress into a note-taking app with bi-directional links, automatic backlinks, daily notes, tags, and reminders. Import notes from Obsidian, Notion, Evernote, or Roam Research with one click.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Productivity"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/memex/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/woo-shipping/blueprint.json": {
     "title": "Minimal WooCommerce Setup with Sample Products, Shipping, and Payment Method",
     "description": "To create a WordPress Playground instance that installs WooCommerce, adds a custom flat rate shipping method via a plugin, imports WooCommerce sample products XML to demonstrate the shipping method on the cart/checkout pages, and enables the Direct Bank Transfer payment method.",
@@ -312,6 +368,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/caa7ea840c3e6707ee9f70deae73a7c37aa885ae/blueprints/my-wordpress/screenshot.jpg",
     "featured": false
   },
+  "blueprints/personal-crm/blueprint.json": {
+    "title": "Personal CRM",
+    "description": "Manage your contacts and relationships directly from WordPress",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Productivity"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/personal-crm/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/welcome/blueprint.json": {
     "title": "Playground Welcome Landing Page",
     "description": "Landing page for the WordPress Playground giving a quick overview of the features and capabilities of the platform.",
@@ -330,6 +397,17 @@
       "Settings"
     ],
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/use-pretty-permalinks/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/rss-reader/blueprint.json": {
+    "title": "RSS Reader",
+    "description": "Follow friends and consume their content in your WordPress",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Social"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/rss-reader/screenshot.jpg",
     "featured": false
   },
   "blueprints/reset-data-and-import-content/blueprint.json": {
@@ -464,6 +542,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/woocommerce-product-feed/screenshot.jpg",
     "featured": false
   },
+  "blueprints/wordcamp-companion/blueprint.json": {
+    "title": "WordCamp Companion",
+    "description": "A tool to help you plan your WordCamp attendance.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "WordPress"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordcamp-companion/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/beta-rc/blueprint.json": {
     "title": "WordPress Beta",
     "description": "Test the latest WordPress Beta or RC release with theme test data and debugging plugins. Only loads the Beta version during the Beta period.",
@@ -472,6 +561,17 @@
       "Testing"
     ],
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/beta-rc/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/wordopedia/blueprint.json": {
+    "title": "Wordopedia",
+    "description": "Search, browse, and save Wikipedia articles and snippets.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Productivity"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordopedia/screenshot.jpg",
     "featured": false
   }
 }

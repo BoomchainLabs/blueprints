@@ -4,10 +4,7 @@
 		"title": "Personal CRM",
 		"description": "Manage your contacts and relationships directly from WordPress",
 		"author": "Alex Kirk",
-		"categories": [
-			"Apps",
-			"Productivity"
-		]
+		"categories": ["Apps", "Productivity"]
 	},
 	"landingPage": "/crm/welcome",
 	"steps": [

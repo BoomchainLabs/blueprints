@@ -82,6 +82,38 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>AI Assistant</h2>
+<p>AI-powered chat interface to modify your WordPress to your liking. Bring your own key or use a local LLM</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/ai-assistant/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/ai-assistant/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/ai-assistant/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/ai-assistant/screenshot.jpg" alt="AI Assistant screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>Chat to Blog</h2>
+<p>Import media from Beeper chats and create blog posts. Requires Beeper Desktop running.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/chat-to-blog/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/chat-to-blog/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/chat-to-blog/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/chat-to-blog/screenshot.jpg" alt="Chat to Blog screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>Collect Posts from the Web</h2>
+<p>Use the Post Collection Plugin to save articles from around the web</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/post-collection/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/post-collection/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/post-collection/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/post-collection/screenshot.jpg" alt="Collect Posts from the Web screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>Cookbook</h2>
+<p>Store your recipes in your WordPress, with ingredients, steps, and prep/cook times. Paste a URL to pull a recipe in from the web.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/cookbook/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/cookbook/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/cookbook/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/cookbook/screenshot.jpg" alt="Cookbook screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>Create Block Theme</h2>
 <p>Blueprint to install Create Block Theme and start editing right away</p>
 <p><small>By <a href="https://github.com/jonathanbossenger">@jonathanbossenger</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/create-block-theme/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/create-block-theme/blueprint.json">Edit</a></small></p>
@@ -150,7 +182,7 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <p>Enables the Gutenberg Guidelines experiment from the Gutenberg Experiments page</p>
 <p><small>By <a href="https://github.com/smithjw1">@smithjw1</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/gutenberg-guidelines/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/7edc4beec9a05bd41b13bc377aa6f6be6fed1552/blueprints/gutenberg-guidelines/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/7edc4beec9a05bd41b13bc377aa6f6be6fed1552/blueprints/gutenberg-guidelines/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
-<p align="left"><em>No screenshot yet for Gutenberg Guidelines Experiment enabled. Open it in Playground.</em></p>
+<p align="left"><img src="blueprints/gutenberg-guidelines/screenshot.jpg" alt="Gutenberg Guidelines Experiment enabled screenshot" width="400"></p>
 <br clear="all">
 
 
@@ -218,6 +250,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>Memex</h2>
+<p>Turn WordPress into a note-taking app with bi-directional links, automatic backlinks, daily notes, tags, and reminders. Import notes from Obsidian, Notion, Evernote, or Roam Research with one click.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/memex/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/memex/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/memex/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/memex/screenshot.jpg" alt="Memex screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>Minimal WooCommerce Setup with Sample Products, Shipping, and Payment Method</h2>
 <p>To create a WordPress Playground instance that installs WooCommerce, adds a custom flat rate shipping method via a plugin, imports WooCommerce sample products XML to demonstrate the shipping method on the cart/checkout pages, and enables the Direct Bank Transfer payment method.</p>
 <p><small>By <a href="https://github.com/calvinrodrigues500">@calvinrodrigues500</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/woo-shipping/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/woo-shipping/blueprint.json">Edit</a></small></p>
@@ -234,6 +274,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>Personal CRM</h2>
+<p>Manage your contacts and relationships directly from WordPress</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/personal-crm/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/personal-crm/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/personal-crm/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/personal-crm/screenshot.jpg" alt="Personal CRM screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>Playground Welcome Landing Page</h2>
 <p>Landing page for the WordPress Playground giving a quick overview of the features and capabilities of the platform.</p>
 <p><small>By <a href="https://github.com/fellyph">@fellyph</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/welcome/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/54cdbaa2a903a7cd5c4a4785122798f23173b719/blueprints/welcome/blueprint.json">Edit</a></small></p>
@@ -247,6 +295,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <p><small>By <a href="https://github.com/bgrgicak">@bgrgicak</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/use-pretty-permalinks/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/use-pretty-permalinks/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/use-pretty-permalinks/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/use-pretty-permalinks/screenshot.jpg" alt="Pretty permalinks screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>RSS Reader</h2>
+<p>Follow friends and consume their content in your WordPress</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/rss-reader/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/rss-reader/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/rss-reader/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/rss-reader/screenshot.jpg" alt="RSS Reader screenshot" width="400"></p>
 <br clear="all">
 
 
@@ -346,11 +402,27 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>WordCamp Companion</h2>
+<p>A tool to help you plan your WordCamp attendance.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/wordcamp-companion/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordcamp-companion/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordcamp-companion/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/wordcamp-companion/screenshot.jpg" alt="WordCamp Companion screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>WordPress Beta</h2>
 <p>Test the latest WordPress Beta or RC release with theme test data and debugging plugins. Only loads the Beta version during the Beta period.</p>
 <p><small>By <a href="https://github.com/courtneyr-dev">@courtneyr-dev</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/beta-rc/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/beta-rc/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/beta-rc/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/beta-rc/screenshot.jpg" alt="WordPress Beta screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>Wordopedia</h2>
+<p>Search, browse, and save Wikipedia articles and snippets.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/wordopedia/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordopedia/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/wordopedia/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/wordopedia/screenshot.jpg" alt="Wordopedia screenshot" width="400"></p>
 <br clear="all">
 
 
