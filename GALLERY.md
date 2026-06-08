@@ -346,6 +346,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>Symfony Package Radar</h2>
+<p>A PHP-only Symfony app that demonstrates attribute routing, autowiring, Twig, and HttpClient without downloading WordPress, Node.js, Sass, or an asset build step.</p>
+<p><small>By <a href="https://github.com/adamziel">@adamziel</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/symfony-package-radar/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/eac8ac5407ca1762921c6b6ffa1bff9a1fda1d18/blueprints/symfony-package-radar/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/eac8ac5407ca1762921c6b6ffa1bff9a1fda1d18/blueprints/symfony-package-radar/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/symfony-package-radar/screenshot.jpg" alt="Symfony Package Radar screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>Theme Review Environment</h2>
 <p>Helps new theme reviewers get started faster by installing Theme Check and other recommended plugins, enabling WP-CLI, and turning on debug logging.</p>
 <p><small>By <a href="https://github.com/supernovia">@supernovia</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/theme-review-environment/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/3dfa5dbbbe050863c9e97fe3d39668eeac2b8228/blueprints/theme-review-environment/blueprint.json">Edit</a></small></p>

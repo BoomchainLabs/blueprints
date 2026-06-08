@@ -469,6 +469,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/stylish-press/screenshot.jpg",
     "featured": false
   },
+  "blueprints/symfony-package-radar/blueprint.json": {
+    "title": "Symfony Package Radar",
+    "description": "A PHP-only Symfony app that demonstrates attribute routing, autowiring, Twig, and HttpClient without downloading WordPress, Node.js, Sass, or an asset build step.",
+    "author": "adamziel",
+    "categories": [
+      "Development",
+      "Demo"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/eac8ac5407ca1762921c6b6ffa1bff9a1fda1d18/blueprints/symfony-package-radar/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/theme-review-environment/blueprint.json": {
     "title": "Theme Review Environment",
     "author": "supernovia",
