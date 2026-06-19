@@ -84,8 +84,8 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 
 <h2>AI Assistant</h2>
 <p>AI-powered chat interface to modify your WordPress to your liking. Bring your own key or use a local LLM</p>
-<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/ai-assistant/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/046fc153acdecd33f5ff66274b10a2d1cb78fa40/blueprints/ai-assistant/blueprint.json">Edit</a></small></p>
-<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/046fc153acdecd33f5ff66274b10a2d1cb78fa40/blueprints/ai-assistant/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/ai-assistant/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/c436e943e3fe4a408e8a64375397f5173941a467/blueprints/ai-assistant/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/c436e943e3fe4a408e8a64375397f5173941a467/blueprints/ai-assistant/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/ai-assistant/screenshot.jpg" alt="AI Assistant screenshot" width="400"></p>
 <br clear="all">
 
