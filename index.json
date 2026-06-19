@@ -124,6 +124,17 @@
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/ai-assistant/screenshot.jpg",
     "featured": false
   },
+  "blueprints/apiary-press/blueprint.json": {
+    "title": "Apiary Press",
+    "description": "Track beehives and record hive visits.",
+    "author": "Francesco Bigiarini",
+    "categories": [
+      "Apps",
+      "WordPress"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/09339ae48bdd513626734bbc4294ba82554f9bda/blueprints/apiary-press/screenshot.jpg",
+    "featured": false
+  },
   "blueprints/chat-to-blog/blueprint.json": {
     "title": "Chat to Blog",
     "description": "Import media from Beeper chats and create blog posts. Requires Beeper Desktop running.",
@@ -572,6 +583,17 @@
       "Testing"
     ],
     "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/c399585e8578db32a8706af8cfe25caf760c56cc/blueprints/beta-rc/screenshot.jpg",
+    "featured": false
+  },
+  "blueprints/wordpress-courses/blueprint.json": {
+    "title": "WordPress Courses",
+    "description": "A personal study helper for Learn WordPress courses with course plans, lesson checklists, dates, and progress tracking.",
+    "author": "Alex Kirk",
+    "categories": [
+      "Apps",
+      "Education"
+    ],
+    "screenshot_url": "https://raw.githubusercontent.com/wordpress/blueprints/09339ae48bdd513626734bbc4294ba82554f9bda/blueprints/wordpress-courses/screenshot.jpg",
     "featured": false
   },
   "blueprints/wordopedia/blueprint.json": {

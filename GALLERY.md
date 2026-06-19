@@ -90,6 +90,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <br clear="all">
 
 
+<h2>Apiary Press</h2>
+<p>Track beehives and record hive visits.</p>
+<p><small>By <a href="https://github.com/Francesco Bigiarini">@Francesco Bigiarini</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/apiary-press/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/09339ae48bdd513626734bbc4294ba82554f9bda/blueprints/apiary-press/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/09339ae48bdd513626734bbc4294ba82554f9bda/blueprints/apiary-press/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/apiary-press/screenshot.jpg" alt="Apiary Press screenshot" width="400"></p>
+<br clear="all">
+
+
 <h2>Chat to Blog</h2>
 <p>Import media from Beeper chats and create blog posts. Requires Beeper Desktop running.</p>
 <p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/chat-to-blog/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/26507076d7a5042627d039fc2a10af8332295413/blueprints/chat-to-blog/blueprint.json">Edit</a></small></p>
@@ -423,6 +431,14 @@ Here's the list of all the community Blueprints submitted to this repository. Se
 <p><small>By <a href="https://github.com/courtneyr-dev">@courtneyr-dev</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/beta-rc/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/beta-rc/blueprint.json">Edit</a></small></p>
 <p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/d17b1bb6a5f6b2b3293625804a4f2a73284052f3/blueprints/beta-rc/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
 <p align="left"><img src="blueprints/beta-rc/screenshot.jpg" alt="WordPress Beta screenshot" width="400"></p>
+<br clear="all">
+
+
+<h2>WordPress Courses</h2>
+<p>A personal study helper for Learn WordPress courses with course plans, lesson checklists, dates, and progress tracking.</p>
+<p><small>By <a href="https://github.com/Alex Kirk">@Alex Kirk</a> • <a href="https://github.com/wordpress/blueprints/blob/trunk/blueprints/wordpress-courses/blueprint.json">View source</a> • <a href="https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/09339ae48bdd513626734bbc4294ba82554f9bda/blueprints/wordpress-courses/blueprint.json">Edit</a></small></p>
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/09339ae48bdd513626734bbc4294ba82554f9bda/blueprints/wordpress-courses/blueprint.json"><img src="playground-preview-button.svg" alt="Try it in Playground" width="220"></a></p>
+<p align="left"><img src="blueprints/wordpress-courses/screenshot.jpg" alt="WordPress Courses screenshot" width="400"></p>
 <br clear="all">
 
 
